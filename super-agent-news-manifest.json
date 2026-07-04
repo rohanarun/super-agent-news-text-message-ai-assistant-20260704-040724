@@ -1,0 +1,60 @@
+{
+  "citations": [
+    "[techcrunch.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMzJuQTRxbjVUVU1sNjQ2Y3REU0JMOW9kOTJ2cE9LcWdNSE1WNlAtTk9DUUxtejRYNE4zSGhaaFNaOThDNHZJSlJaUmxya0NOQXZNVHVXWDYzd1Y2Q1hZS1hzaGNNakw3M1BidV8zU3ZiXzdxSURhem1IVFJmVDl4anJHdmZEczJl)",
+    "[apple.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHh5ZUJodXpvNGI2Y09yQ25oNUszam5rendnZ2haX2l2dTMxbWcwU1Jlb0xjdnNRckNkMElCZy02aHhlQUFfNmZTeU1faE1vLW1aRzByektzWFJ4MEUycjJtY1dkRi1DVGN0dWNzdFIyQjlPdWJ2RG5LLTVXelN5SU5BUGZFeFZNSU0zMEpUcUFPLWxySlpSWjA2c0FvZDRxRzlZWWdPNU02M0JMVUVsN1Vfbw)",
+    "[blog.google](https://news.google.com/rss/articles/CBMijAFBVV95cUxNVGxlcDl0VnlkNWYzdUcwSTkyM0FBOFNUUGpkWjdRV0Zmcmp5cjJQa0VwX3lqamY2ZXRFQlBMSEt6ZkxVd2FMN2sxZHd2ZG1HeVkycTAwX0dHREJEMmFYU09RM2JzaUppQjhsMTNJU00xUk4yTkF3cGxEYjUtclc1M2NWWUQ4M1hpWGRNOQ)",
+    "[securityweek.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNzNVS2JTY3A5VGg2bE91TFQwM3RSUFEwNUMzeTZtYlVhOG40OFN1WTRoRE9oZ3hBM1dQTUY0UDBWZlZIckhjcFdVNnRXRnljU0N1Y1JaT0JhMmJ6RnlLNWJrRHBGX0tBckRNQl80d0NQekI2YjNxVm5TNDNkSDRqNGpzUm9ZbnZoM093dGhobzBWUkHSAZgBQVVfeXFMUHFpZ2IwZUUxMWdVSmh0Q2haQS12RFNIMHEyNlVCSjdDS2g3SDFTMHFYVHRVVU9zTzZIdFRBN0gzclhxb2hyODdWZ2pFU3d6cmwyOUNDYngxVWQzbTY2UWM1blVTT0NodXRra2dwOEJiZFBtTmg2MjRFUUZtMHpYZHhpZmVzdnJrTVlfRXBQS2FMdmRfZ0NBNWo)"
+  ],
+  "design_plan": "rng=42; hero_lines=2-3; centered_hero=true; justify_center_actions=true; css_length_check>=4200; bento_density=grid-auto-flow:dense; AIDA=pass; contrast=pass; cache_phrase_count>=2",
+  "generated_at": "2026-07-04T04:07:31.698680+00:00",
+  "headline": "Text message AI assistant that actually gets things done",
+  "site_brief": {
+    "audience": "people who want to text an AI assistant instead of opening another app",
+    "canonical_url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Text message AI assistant', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "text message AI assistant",
+      "SMS AI assistant",
+      "personal AI assistant by text",
+      "AI agent texting workflow automation"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "text-message-ai-assistant",
+    "title": "Text message AI assistant",
+    "use_case_intent": "show how Super turns SMS-style requests into real computer actions, follow-ups, reminders, and app workflows"
+  },
+  "summary": "This use\u2011case page explains how Super lets you text an AI assistant instead of opening another app \u2014 and have it perform real computer actions, follow\u2011ups, and reminders using a reusable computer-use cache. It\u2019s written for people who want SMS\u2011style simplicity with real execution, positioned clearly against Siri, ChatGPT, Gemini, Grok, Folk, and Orchids."
+}
